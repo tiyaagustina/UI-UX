@@ -17,3 +17,10 @@ https://www.figma.com/file/CVXiRyNoxslSHbmuzddywT/Bed-Tumblr
 
 5. Pharmaceutical Management Information System Website (Tugas Akhir)
 https://www.figma.com/file/IZkd4woBL0vdK0bNPZsmmdgD/APOTEKER?node-id=4%3A3
+
+Website
+
+Pharmaceutical Management Information System Website
+http://apotik.vokasidev.com/
+Username : Apoteker
+Password : apoteker
