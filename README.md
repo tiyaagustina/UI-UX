@@ -1,4 +1,4 @@
-# UI-UX
+# UI/UX
 portofolio
 
 LINK :
